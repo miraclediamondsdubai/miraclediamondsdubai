@@ -2,7 +2,7 @@
 ---
 layout: default
 title: Miracle Diamonds Dubai | Luxury Diamond Jewellery
-description: Discover diamond rings, pendant necklaces and luxury jewellery at Miracle Diamonds, Gold & Diamond Park, Dubai.
+description: Discover luxury diamond rings, sparkling diamond pendant necklaces, and fine jewellery at Miracle Diamonds, Gold & Diamond Park, Dubai, UAE.
 ---
 
 # Miracle Diamonds Dubai 💎
